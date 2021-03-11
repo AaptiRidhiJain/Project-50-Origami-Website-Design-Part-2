@@ -1,0 +1,44 @@
+h1{
+    text-decoration-line:underline;
+    text-decoration-color:violet;
+}
+
+.header{
+    background-color: black;
+    color:white;
+    text-align:center;
+    font-family:serif;
+    border:ridge;
+    border-color: deeppink;
+    border-bottom: groove;
+    border-top: groove;
+    border-left: groove;
+    border-right: groove;
+    border-top-color:mediumpurple;
+    border-bottom-color:mediumpurple;
+    border-right-color:mediumvioletred;
+    border-left-color:mediumvioletred;
+    border-width: 15px;
+}
+
+.origami{
+    background-color:springgreen;
+    color:seagreen;
+    font-size:large;
+    font-family:cursive;    
+}
+
+h3{
+    color:forestgreen;
+    font-size: x-large;
+    text-decoration-line:underline;
+    text-decoration-color:seagreen;
+}
+
+.grid{
+    display:flex;
+    flex-wrap:nowrap;
+    border:ridge;
+    border-color: lightseagreen;
+    border-width: 15px;
+}
